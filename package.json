@@ -1,0 +1,15 @@
+{
+  "name": "selenium_run",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "all": "selenium-side-runner src/*.side",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chromedriver": "75.0.0"
+  }
+}
